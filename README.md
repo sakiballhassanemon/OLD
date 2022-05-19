@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-9.0-green.svg?style=flat-square"></a>
-![_alt_text_](https://shields.io/badge/Python-text-3776AB?style=for-the-badge&logo=Python)
+![__alt_text__] (https://shields.io/badge/Python-text-3776AB?style=for-the-badge&logo=Python)
 <a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/htr-tech/nexphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/nexphisher?color=red&style=flat-square"></a>
 <a href="https://github.com/htr-tech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
