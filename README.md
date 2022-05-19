@@ -18,16 +18,24 @@
 
 ## Installation :
 
-* `apt update`
-* `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
-* `cd nexphisher`
-#### > SETUP : `bash setup`
-#### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+* `apt update && upgrade -y`
+* `pkg install python -y`
+* `pip2 install requests`
+* `pip2 install mechanize`
+* `pip2 install requests bs4`
+* `pip2 install lolcat`
+* `pip2 install futures`
+* `pkg install git -y`
+* `pkg install python2 -y`
+* `rm -rf OLD`
+* `git clone https://github.com/SHADOW-SQUAD-BROTHEr/OLD`
+* `ls`
+* `cd OLD`
+
+#### > Run : `python SHADOW-OLD.py`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update && upgrade -y ; pkg install python -y ; pkg install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install requests bs4 ; pip2 install lolcat ; pip2 install futures ; pkg install git -y ; rm -rf OLD ; git clone https://github.com/SHADOW-SQUAD-BROTHEr/OLD ; cd OLD ; python SHADOW-OLD.py
 ```
 <br>
