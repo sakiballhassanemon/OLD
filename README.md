@@ -10,10 +10,10 @@
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-9.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/SHADOW-SQUAD-BROTHEr/followers"><img title="Followers" src="https://img.shields.io/github/followers/SHADOW-SQUAD-BROTHEr?color=blue&style=flat-square"></a>
 <a href="https://github.com/SHADOW-SQUAD-BROTHEr/OLD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SHADOW-SQUAD-BROTHEr/OLD?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SHADOW-SQUAD-BROTHEr/OLD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHADOW-SQUAD-BROTHEr/OLD?color=red&style=flat-square"></a>
+<a href="https://github.com/SHADOW-SQUAD-BROTHEr/OLD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHADOW-SQUAD-BROTHEr/OLD?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
