@@ -32,9 +32,3 @@
 apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
 ```
 <br>
-<p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
-<img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
-  
-  
-  <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Author&logo=Github&style=for-the-badge&url=https://github.com/SHADOW-SQUAD-BROTHEr/OLD">
